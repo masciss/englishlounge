@@ -2,14 +2,14 @@
 
 Website English Lounge
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
+### ✨ Fitur Fitur
+- Home
 - Next.js and Tailwind CSS
-- All Essential Business Sections and Pages
+- About
 - High-quality and Clean Design
 - Dark and Light Version
 - TypeScript Support
-and Much More ...
+
 
 ### 💜 Support
 Jika Kamu Suka Kamu Like Jika Tidak Kamu Subrek
